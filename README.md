@@ -1,4 +1,4 @@
-# StripChat Request Manager / Request Viewer
+す# StripChat Request Manager / Request Viewer
 
 A lightweight request-management tool for **StripChat broadcasters**, developed by **Streamforge**.
 
@@ -36,10 +36,19 @@ https://streamforge.booth.pm/items/8639979
 
 ### English Full Version — YouTube Demo
 
-[![StripChat Request Manager Full — English Demo](https://img.youtube.com/vi/FULL_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=FULL_VIDEO_ID)
+## Full Version
 
-▶ https://www.youtube.com/watch?v=FULL_VIDEO_ID
+### Japanese
+https://streamforge.booth.pm/items/8632583
 
+### English
+https://streamforge.booth.pm/items/8639979
+
+### English Full Version — YouTube Demo
+
+[![StripChat Request Manager Full — English Demo](https://img.youtube.com/vi/pUzzGM3QstQ/hqdefault.jpg)](https://www.youtube.com/watch?v=pUzzGM3QstQ)
+
+▶ https://www.youtube.com/watch?v=pUzzGM3QstQ
 ## StripChat リクエスト管理
 
 Streamforgeでは、StripChat配信中に流れるリクエストを見やすく整理・管理するためのツールを開発しています。
