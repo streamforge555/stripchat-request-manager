@@ -33,6 +33,13 @@ https://streamforge.booth.pm/items/8632583
 ### English
 https://streamforge.booth.pm/items/8639979
 
+
+### English Full Version — YouTube Demo
+
+[![StripChat Request Manager Full — English Demo](https://img.youtube.com/vi/FULL_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=FULL_VIDEO_ID)
+
+▶ https://www.youtube.com/watch?v=FULL_VIDEO_ID
+
 ## StripChat リクエスト管理
 
 Streamforgeでは、StripChat配信中に流れるリクエストを見やすく整理・管理するためのツールを開発しています。
