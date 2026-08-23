@@ -19,6 +19,12 @@ Try the free version:
 
 https://streamforge.booth.pm/items/8705007
 
+### English Free Version — YouTube Demo
+
+[![StripChat Request Viewer Free — English Demo](https://img.youtube.com/vi/YbsR3UDzazw/hqdefault.jpg)](https://www.youtube.com/watch?v=YbsR3UDzazw)
+
+▶ https://www.youtube.com/watch?v=YbsR3UDzazw
+
 ## Full Version
 
 ### Japanese
