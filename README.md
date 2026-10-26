@@ -1,70 +1,49 @@
-す# StripChat Request Manager / Request Viewer
+# StripChat Request Viewer — Free Version
 
-A lightweight request-management tool for **StripChat broadcasters**, developed by **Streamforge**.
+A lightweight viewer for StripChat broadcasters, made by **Streamforge**.
 
-StripChat Request Manager helps broadcasters organize viewer requests during live streams, making important requests easier to see without getting lost in the normal chat flow.
+**The free version is distributed through BOOTH, not as source code in this repository.** This repository provides official download links, demo videos, and product information.
 
-## Features
+## Get the Free Version
 
-- Automatically detects and displays relevant StripChat requests
-- Separates requests from the normal chat flow
-- NOW / NEXT display support
-- Tampermonkey-based operation
-- Simple interface designed for live streaming
-- Japanese and English versions available
+**[Download the free version from BOOTH](https://streamforge.booth.pm/items/8705007)**
 
-## Free Version
+- Tampermonkey userscript
+- Helps display and organize requests during a livestream
+- A simple on-screen request panel
+- Japanese and English product information
 
-Try the free version:
+### Free Version — English Demo
 
-https://streamforge.booth.pm/items/8705007
+[![Watch the free version demo](https://img.youtube.com/vi/YbsR3UDzazw/hqdefault.jpg)](https://www.youtube.com/watch?v=YbsR3UDzazw)
 
-### English Free Version — YouTube Demo
-
-[![StripChat Request Viewer Free — English Demo](https://img.youtube.com/vi/YbsR3UDzazw/hqdefault.jpg)](https://www.youtube.com/watch?v=YbsR3UDzazw)
-
-▶ https://www.youtube.com/watch?v=YbsR3UDzazw
+[Watch on YouTube](https://www.youtube.com/watch?v=YbsR3UDzazw)
 
 ## Full Version
 
-### Japanese
-https://streamforge.booth.pm/items/8632583
+- [Japanese full version (BOOTH)](https://streamforge.booth.pm/items/8632583)
+- [English full version (BOOTH)](https://streamforge.booth.pm/items/8639979)
 
-### English
-https://streamforge.booth.pm/items/8639979
+### Full Version — English Demo
 
+[![Watch the full version demo](https://img.youtube.com/vi/pUzzGM3QstQ/hqdefault.jpg)](https://www.youtube.com/watch?v=pUzzGM3QstQ)
 
-### English Full Version — YouTube Demo
+[Watch on YouTube](https://www.youtube.com/watch?v=pUzzGM3QstQ)
 
-## Full Version
+## 日本語
 
-### Japanese
-https://streamforge.booth.pm/items/8632583
+StripChat（ストチャ）配信中のリクエストを、通常のチャットとは別に確認しやすくするツールです。
 
-### English
-https://streamforge.booth.pm/items/8639979
+**[無料版をBOOTHで入手](https://streamforge.booth.pm/items/8705007)**
 
-### English Full Version — YouTube Demo
+有料版： [日本語](https://streamforge.booth.pm/items/8632583) / [英語](https://streamforge.booth.pm/items/8639979)
 
-[![StripChat Request Manager Full — English Demo](https://img.youtube.com/vi/pUzzGM3QstQ/hqdefault.jpg)](https://www.youtube.com/watch?v=pUzzGM3QstQ)
+## Source code and distribution
 
-▶ https://www.youtube.com/watch?v=pUzzGM3QstQ
-## StripChat リクエスト管理
-
-Streamforgeでは、StripChat配信中に流れるリクエストを見やすく整理・管理するためのツールを開発しています。
-
-通常チャットに埋もれやすいリクエストを抽出し、配信中でも確認しやすい形で表示します。
-
-まずは無料版からお試しいただけます。
-
-https://streamforge.booth.pm/items/8705007
-
-## Keywords
-
-StripChat Request Manager / StripChat Request Viewer / StripChat tools / StripChat userscript / StripChat Tampermonkey / StripChat broadcaster tools / StripChat リクエスト管理 / 配信リクエスト管理
+This public GitHub repository contains product information only. The protected userscript is **not** published as open-source code. Refer to the distributed product's license and terms.
 
 ## About Streamforge
 
-Streamforge develops practical tools designed to make live-stream management simpler and easier to operate.
+Streamforge develops tools and analysis resources for livestream management.
 
-> This repository is an information page for the product. The product source code is not distributed through this repository.
+**Keywords:** StripChat, request manager, request viewer, Tampermonkey, livestream tools.
